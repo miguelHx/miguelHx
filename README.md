@@ -7,7 +7,7 @@
 </div>
 
 ### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/miguelhx)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/miguelhx)](https://leetcode.com/miguelhx)
 
 <!--
 **miguelHx/miguelHx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
