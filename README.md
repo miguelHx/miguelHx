@@ -2,7 +2,7 @@
 
 My blog:  [Miguel's blog](https://miguelhx.github.io)
 
-🔭 I’m currently working on [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science)
+🔭 I’m currently working on [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep
 
 🌱 I’m currently learning:
 * [Intro to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
