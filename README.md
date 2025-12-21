@@ -22,8 +22,6 @@ Writing about what I learn on my blog.
 
 😄 Pronouns: He/Him/His
 
-⚡ Fun fact: I'm a huge fan/follower of [Medical Medium](https://www.medicalmedium.com/)
-
 ### Github Stats
 <div class="badges-githubstats">
   <img src="https://github-readme-stats.vercel.app/api?username=miguelhx&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="miguelhx's github statistics" height="140" />
