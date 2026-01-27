@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-My blog:  [Miguel's blog](https://miguelhx.github.io)
-
-🔭 I’m currently working on [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep
+🔭 I’m currently working on re-building my career from the ground up, studying courses from [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep.
 
 🌱 I’m currently learning:
+* [Mathematics for Computer Science \(Discrete Math\)](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/)
+
+Courses Completed from Open Source Society University (OSSU):
 * [Intro to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 * [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)
-* [Mathematics for Computer Science \(Discrete Math\)](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/)
-* [System Design](https://www.hellointerview.com/learn/system-design/in-a-hurry/introduction)
 
-Writing about what I learn on my blog.
+Writing about what I learn on my [blog](https://miguelhx.github.io).
 
 👯 I’m looking to collaborate on interesting open source projects
 
