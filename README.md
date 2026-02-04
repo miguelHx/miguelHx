@@ -9,7 +9,7 @@ My name is Miguel Hernandez. I am a software engineer based in California. I ear
 * Taking a [writing course](https://www.coursera.org/specializations/good-with-words)
 * Working on some side projects
 
-Courses Completed from Open Source Society University (OSSU):
+Courses Completed from Open Source Society University (OSSU) so far:
 * [Intro to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 * [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)
 
