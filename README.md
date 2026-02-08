@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-My name is Miguel Hernandez. I am a software engineer based in California. I earned a bachelor's degree in Computer Science & Engineering back in 2019 and have 3.5 years of experience as a professional software engineer.
+My name is Miguel Hernandez. I am a software engineer based in California. I earned a bachelor's degree in Computer Science & Engineering back in 2019 and have 3.5 years of professional experience.
 
-🔭 I’m currently working on re-building my career from the ground up; studying courses from [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep.
+🔭 I’m currently working on re-building my career from the ground up. This includes studying courses from [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep.
 
 🌱 I’m currently:
 * Going through [Insane Productivity](https://ipl.darrenhardy.com/main) course
