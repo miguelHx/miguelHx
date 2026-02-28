@@ -5,7 +5,7 @@ My name is Miguel Hernandez. I am a software engineer based in California. I ear
 🔭 I’m currently working on re-building my career from the ground up. This includes studying courses from [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep.
 
 🌱 I’m currently:
-* Going through [Insane Productivity](https://ipl.darrenhardy.com/main) course
+* Taking a [productivity](https://ipl.darrenhardy.com/main) course
 * Taking a [writing course](https://www.coursera.org/specializations/good-with-words)
 * Working on some side projects
 
