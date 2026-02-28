@@ -17,7 +17,9 @@ Writing about what I learn on my [blog](https://blog.miguelhx.com).
 
 👯 I’m looking to collaborate on interesting open source projects
 
+<!-- 
 🤔 I’m looking for help with landing a new software engineering role
+-->
 
 💬 Ask me about online courses, CS education, math, code, interview prep, the job hunt
 
