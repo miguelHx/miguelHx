@@ -5,17 +5,14 @@ My name is Miguel Hernandez. I am a software engineer based in California. I ear
 🔭 I’m currently working on re-building my career from the ground up. This includes studying courses from [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep.
 
 🌱 I’m currently:
-* Taking a [productivity](https://ipl.darrenhardy.com/main) course
-* Taking a [writing course](https://www.coursera.org/specializations/good-with-words)
-* Working on some side projects
-
-Courses Completed from Open Source Society University (OSSU) so far:
-* [Intro to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
-* [Systematic Program Design](https://learning.edx.org/course/course-v1:UBCx+SPD1x+2T2015/home)
+* Taking [MIT's Software Construction](https://web.mit.edu/6.102/www/sp26/) course
+* Taking [MIT's Missing Semester](https://missing.csail.mit.edu/) course
 
 Writing about what I learn on my [blog](https://blog.miguelhx.com).
 
+<!-- 
 👯 I’m looking to collaborate on interesting open source projects
+-->
 
 <!-- 
 🤔 I’m looking for help with landing a new software engineering role
