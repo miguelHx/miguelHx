@@ -20,7 +20,7 @@ Writing about what I learn on my [blog](https://blog.miguelhx.com).
 
 💬 Ask me about online courses, CS education, math, code, interview prep, the job hunt
 
-📫 How to reach me: mhernandez401405@gmail.com or my [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-535b05102/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-535b05102/)
 
 😄 Pronouns: He/Him/His
 
