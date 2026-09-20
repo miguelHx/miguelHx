@@ -1,6 +1,7 @@
+<!-- 
 ## Hi there 👋
 
-My name is Miguel Hernandez. I am a software engineer based in California. I earned a bachelor's degree in Computer Science & Engineering back in 2019 and have 3.5 years of professional experience.
+My name is Miguel. I am a software engineer based in California. I earned a bachelor's degree in Computer Science & Engineering back in 2019 and have 3.5 years of professional experience.
 
 🔭 I’m currently working on re-building my career from the ground up. This includes studying courses from [Open Source Society University - Computer Science curriculum](https://github.com/ossu/computer-science) along with software engineering interview prep.
 
@@ -9,7 +10,7 @@ My name is Miguel Hernandez. I am a software engineer based in California. I ear
 * Taking [MIT's Missing Semester](https://missing.csail.mit.edu/) course
 
 Writing about what I learn on my [blog](https://blog.miguelhx.com).
-
+-->
 <!-- 
 👯 I’m looking to collaborate on interesting open source projects
 -->
@@ -18,20 +19,22 @@ Writing about what I learn on my [blog](https://blog.miguelhx.com).
 🤔 I’m looking for help with landing a new software engineering role
 -->
 
+<!-- 
 💬 Ask me about online courses, CS education, math, code, interview prep, the job hunt
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-535b05102/)
 
 😄 Pronouns: He/Him/His
-
+-->
+<!--
 ### Github Stats
 <div class="badges-githubstats">
   <img src="https://github-readme-stats.vercel.app/api?username=miguelhx&show_icons=true&hide_border=true&count_private=true&bg_color=111%2C082421%2C0D1117&title_color=7c60d1&text_color=f0f0f5&icon_color=319e8d&border_color=131313&border_radius=10" alt="miguelhx's github statistics" height="140" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelhx&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="miguelhx's github commit streak" height="140" />
 </div>
-
+-->
 ### Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/miguelhx)](https://leetcode.com/miguelhx)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/miguelhx)](https://leetcode.com/miguelhx) -->
 
 <!--
 **miguelHx/miguelHx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
