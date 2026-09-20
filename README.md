@@ -33,7 +33,7 @@ Writing about what I learn on my [blog](https://blog.miguelhx.com).
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguelhx&hide_border=true&background=082421&border=131313&stroke=c7b8ff&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="miguelhx's github commit streak" height="140" />
 </div>
 -->
-### Leetcode Stats
+<!-- ### Leetcode Stats -->
 <!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/miguelhx)](https://leetcode.com/miguelhx) -->
 
 <!--
